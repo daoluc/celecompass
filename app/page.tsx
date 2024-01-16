@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main className="text-[#1C2B62]">
-      <div className="text-4xl font-bold text-center p-4 fixed top-0 left-0 min-w-full bg-white bg-opacity-90 border-b-[#E3E3E3] border-b">
+      <div className="text-4xl font-bold text-center pt-10 pb-4 fixed -top-5 left-0 min-w-full bg-white bg-opacity-90 border-b-[#E3E3E3] border-b">
         <span className="bg-gradient-to-r from-[#608F9F] to-[#FBB217] inline-block text-transparent bg-clip-text">
           CelesCompass
         </span>

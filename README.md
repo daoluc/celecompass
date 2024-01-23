@@ -1,1 +1,1 @@
-CelesCompass Landing Page
+CeleCompass Landing Page

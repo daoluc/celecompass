@@ -5,7 +5,7 @@ export default function Home() {
     <main className="text-[#1C2B62]">
       <div className="text-4xl font-bold text-center p-4 fixed top-0 left-0 min-w-full bg-white bg-opacity-90 border-b-[#E3E3E3] border-b">
         <span className="bg-gradient-to-r from-[#608F9F] to-[#FBB217] inline-block text-transparent bg-clip-text">
-          CelesCompass
+          CeleCompass
         </span>
       </div>
       <div className="flex flex-col items-center min-h-screen py-2 gap-3 pt-24">
@@ -42,7 +42,7 @@ export default function Home() {
 
         <footer className="w-full text-center py-6 mt-8">
           <p className="text-sm text-gray-600">
-            © {new Date().getFullYear()} CelesCompass. All rights reserved.
+            © {new Date().getFullYear()} CeleCompass. All rights reserved.
           </p>
         </footer>
       </div>
